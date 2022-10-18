@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> OWL-CODER </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, tecnologias WEB.
